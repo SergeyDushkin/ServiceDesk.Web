@@ -1,9 +1,9 @@
 {
-    "API_URI" : "http://40.85.129.95:5000/",
-    "APP_API_URI" : "http://40.85.129.95:5000/",
-    "APP_HUB_URI" : "http://40.85.129.95:15000/hub",
+    "API_URI" : "/api/",
+    "APP_API_URI" : "/api/",
+    "APP_HUB_URI" : "/signal/hub",
     "AuthenticationServer" : {
-        "url" : "http://40.85.129.95:10001/",
+        "url" : "/authorization/",
         "client_id" : "public",
         "client_secret" : "public"
         }
