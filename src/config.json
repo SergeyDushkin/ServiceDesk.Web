@@ -1,7 +1,7 @@
 {
     "API_URI" : "/api/",
     "APP_API_URI" : "/api/",
-    "APP_HUB_URI" : "/signalr/",
+    "APP_HUB_URI" : "/signalr",
     "AuthenticationServer" : {
         "url" : "/authorization/",
         "client_id" : "public",
